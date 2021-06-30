@@ -1,0 +1,16 @@
+//Primer entrega del proyecto Final [Agustin Rojas]//
+
+Para las pruebas, utilice POSTMAN con las rutas.
+Para los post/put utilice este formato JSON:
+
+{
+    "nombre": "Globo Terráqueo",
+    "descripcion": "Gloco de plastico",
+    "codigo": 10,
+	"foto": "https://cdn3.iconfinder.com/data/icons/education-209/64/globe-earth-geograhy-planet-school-256.png",
+    "precio": 345.67,
+    "stock": true
+}
+
+
+Tanto como el stock de productos, como el carrito se actualizan en sus .TXT cada vez que se hace una modificacion.
