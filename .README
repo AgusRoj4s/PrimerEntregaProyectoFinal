@@ -14,3 +14,6 @@ Para los post/put utilice este formato JSON:
 
 
 Tanto como el stock de productos, como el carrito se actualizan en sus .TXT cada vez que se hace una modificacion.
+
+-iniciar el repositorio con npm install.
+-ejecutar el comando npm start para correr localmente el programa.
